@@ -8,7 +8,7 @@
 
   /* Nav */
   .header-background {
-    background-image: url(../image/header.png);
+    background-image: url(../images/header.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -49,7 +49,7 @@
   }
 
   .festival-background {
-    background-image: url(../image/Riyadh-Season-Firework.jpg);
+    background-image: url(../images/backgrund-carnival.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -127,7 +127,7 @@
   }
 
   .header-background {
-    background-image: url(../image/header.png);
+    background-image: url(../images/header.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -204,13 +204,13 @@
   }
 
   #home-desktop {
-    background-image: url(../image/Partners.jpg);
+    background-image: url(../images/header.png);
     background-repeat: no-repeat;
     background-size: cover;
   }
 
   .festival-background {
-    background-image: url(../image/Riyadh-Season-Firework.jpg);
+    background-image: url(../images/backgrund-carnival.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

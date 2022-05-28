@@ -12,7 +12,7 @@
 
   /* Nav */
   .header-background {
-    background-image: url(images/Partners.jpg);
+    background-image: url(images/header.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -49,6 +49,7 @@
   }
 
   .nav-menu {
+    position: absolute;
     display: none;
   }
 
