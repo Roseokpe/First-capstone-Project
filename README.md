@@ -2,7 +2,7 @@
 
 # Capstone-Project
 
-> This website allows users to know more about the Calabar carnival which happen once in a year for thirty days in december in Cross River state Nigeria.
+This website allows users to know more about the Calabar carnival which happen once in a year for thirty days in december in Cross River state Nigeria.
 
 # Built With
 
@@ -18,7 +18,7 @@
 
 ## Video Presentation
 
-A video providing a brief explanation about the wesite and how it works. You can watch through this [link.](https://www.loom.com/share/2a218e4a6c2c4e08acef945f2ad51b96)
+A video providing a brief explanation about the wesite and how it works. You can watch through this [link.](https://www.loom.com/share/077e16840449411e98781e0dddb2ddda)
 
 
 👤 **Author1**
