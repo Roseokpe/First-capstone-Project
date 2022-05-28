@@ -1,0 +1,253 @@
+@media screen and (max-width: 768px) {
+  .logo,
+  .first-title,
+  .second-title,
+  #home-desktop {
+    display: none;
+  }
+
+  /* Nav */
+  .header-background {
+    background-image: url(../image/header.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .hamburger-menu {
+    display: block;
+    cursor: pointer;
+    margin: 20px 0 0 20px;
+  }
+
+  .mobile-nav {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+
+  .header {
+    color: #e63521;
+  }
+
+  .bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    transition: all 0.3s ease-in-out;
+    background-color: rgb(134, 130, 130);
+    font-weight: 100;
+  }
+
+  .nav-menu {
+    display: none;
+  }
+
+  .festival-background {
+    background-image: url(../image/Riyadh-Season-Firework.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+  }
+
+  .flex {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .partners {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .partners p {
+    padding-left: 4%;
+  }
+
+  #partners {
+    background-color: #454a57;
+  }
+
+  .logo-img {
+    width: 70px;
+    height: 70px;
+  }
+
+  .flex-copy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: white;
+    color: black;
+    padding: 30px 0 30px 0;
+  }
+
+  .para-copy {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  /* Active hamburger */
+  .hamburger-menu.active .bar:nth-child(2) {
+    opacity: 0;
+  }
+
+  .hamburger-menu.active .bar:nth-child(1) {
+    transform: translateY(8px) rotate(45deg);
+  }
+
+  .hamburger-menu.active .bar:nth-child(3) {
+    transform: translateY(-8px) rotate(-45deg);
+  }
+
+  .nav-menu.active {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+    top: 70px;
+    width: 100%;
+    transition: 0.3s;
+    list-style: none;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .mobile-nav,
+  #partners {
+    display: none;
+  }
+
+  .header-background {
+    background-image: url(../image/header.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .title-bar {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    text-decoration: none;
+  }
+
+  .nav-menu {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+  }
+
+  .header {
+    color: #e63521;
+  }
+
+  .first-title {
+    background-color: rgb(51, 54, 54);
+    padding-right: 10%;
+  }
+
+  .first-title a {
+    text-decoration: none;
+    color: white;
+  }
+
+  .first-title ul {
+    margin: 0;
+  }
+
+  .title-black {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+  }
+
+  .title-black li {
+    text-decoration: none;
+    padding-left: 20px;
+    font-size: 15px;
+  }
+
+  .second-title {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+  }
+
+  .title-white {
+    display: flex;
+    list-style: none;
+    align-items: center;
+  }
+
+  .title-red {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: red;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+    border: 1px solid red;
+    border-width: 5px;
+  }
+
+  .logo-img {
+    width: 70px;
+    height: 70px;
+  }
+
+  #home-desktop {
+    background-image: url(../image/Partners.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .festival-background {
+    background-image: url(../image/Riyadh-Season-Firework.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+  }
+
+  .flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .partners {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .partners p {
+    padding-left: 4%;
+  }
+
+  #partners {
+    background-color: #454a57;
+  }
+
+  .flex-copy {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    background-color: black;
+    color: white;
+    padding: 30px 0 30px 0;
+  }
+
+  .para-copy {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+}
