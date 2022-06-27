@@ -14,17 +14,19 @@ This website allows users to know more about the Calabar carnival which happen o
 
 ## Live Demo
 
-[Live Demo Link]https://roseokpe.github.io/First-capstone-Project/
+[Live Demo](https://roseokpe.github.io/First-capstone-Project/)
 
 ## Video Presentation
 
-A video providing a brief explanation about the wesite and how it works. You can watch through this [link.](https://www.loom.com/share/077e16840449411e98781e0dddb2ddda)
+A video providing a brief explanation about the wesite and how it works. You can watch through this
+[Video Demo Link](https://www.loom.com/share/077e16840449411e98781e0dddb2ddda)
 
 
 👤 **Author1**
 
-- GitHub: @roseokpe
+- GitHub]: @roseokpe
 - Twitter:@roseokpe
+-[Linkedin](https://www.linkedin.com/in/rose-okpe-0334b5177/)
 
 ## 🤝 Contributing
 
