@@ -28,7 +28,7 @@ If you installed git you can clone the code to your machine.
  run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
 ```bash
-[git clone https://github.com/Roseokpe/First-capstone-Project.gitt]
+git clone https://github.com/Roseokpe/First-capstone-Project.gitt
 ```
 
 - Once the files are on your machine, open the folder First-capstone-Projec in [Visual Studio Code](https://code.visualstudio.com/).
